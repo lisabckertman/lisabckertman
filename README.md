@@ -1,4 +1,6 @@
-## Hi there 👋
+🪷 Hi! I'm new here ^_^
+🪐 Engineering physics student
+
 
 <!--
 **lisabckertman/lisabckertman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
