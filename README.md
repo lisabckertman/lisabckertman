@@ -1,5 +1,5 @@
-🪷 Hi! I'm new here ^_^
-🪐 Engineering physics student
+- 🪷 Hi! I'm new here ^_^
+- 🪐 Engineering physics student
 
 
 <!--
